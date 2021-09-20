@@ -23,7 +23,7 @@ Python 3.7.10, tensorflow 1.14.0, numpy 1.16.4
 
 To train STPC-Net on two datasets, cd to the corresponding folder, and run： 
 ```
-"python train.py"
+python train.py
 ```
 
 ## Testing
