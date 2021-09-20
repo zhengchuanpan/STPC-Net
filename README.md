@@ -1,7 +1,7 @@
 # STPC-Net: Learn Massive Geo-sensory Data as Spatio-Temporal Point Clouds
 
 <p align="center">
-  <img width="600" height="250" src=./figure/STPC-Net.png>
+  <img width="900" height="400" src=./figure/STPC-Net.png>
 </p>
 
 This is the implementation of STPC-Net in the following paper: \
